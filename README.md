@@ -5,3 +5,5 @@ Per facilitare il rigging dei personaggi è stato usato lo script python orient_
 Il progetto è stato realizzato in 3 settimane di lavoro
 
 Autori: Andrea Bona, Rosario Milazzo, Silvia Raggi
+
+[LINK DEL VIDEO](https://drive.google.com/drive/folders/1IAd-llgwnhMlSqlwaIZQ6Qrf_oTEsZVk)
